@@ -210,3 +210,5 @@ PixelVoidStudio is the product and creative studio side, focused on turning tech
 ## License
 
 MIT License.
+
+Project documentation is actively maintained.
